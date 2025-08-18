@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**gitsuko/gitsuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi There
 
-Here are some ideas to get you started:
+**Computer Engineering Student**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Just Having Fun With Coding
+
+You can always find me at `/bin/bash`
+
+<img src="https://i.pinimg.com/originals/6e/8d/0b/6e8d0b94a946a0068a445e7a714edcf1.gif" height="220px"/>
+
+</div>
