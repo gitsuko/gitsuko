@@ -4,7 +4,7 @@
 
 **Computer Engineering Student**
 
-Just Having Fun With Coding
+<!-- Just Having Fun With Coding -->
 
 You can always find me at `/bin/bash`
 
