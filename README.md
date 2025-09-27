@@ -13,8 +13,6 @@ Enjoys Coffee | Lifelong Leaner | Developer
 
 </div>
 
----
-
 ### Tech & Tools I use:
 
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white) &nbsp;
