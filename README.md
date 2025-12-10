@@ -30,4 +30,8 @@ Enjoys Coffee | Lifelong Learner | Developer-->
 
 --->
 
-<p align="center">“Are You A One Or A Zero?” — Mr. Robot</p>
+<!-- <p align="center">“Are You A One Or A Zero?” — Mr. Robot</p> -->
+<p>
+Linus Van Pelt: Life is difficult, isn't it, Charlie Brown? <br>
+Charlie Brown: Yes, it is. But I've developed a new philosophy. I only dread one day at a time.
+</p>
